@@ -1,0 +1,17 @@
+{
+  "photo": "",
+  "fullName": "",
+  "gender": 0,
+  "weight": 0,
+  "height": 0,
+  "purpose": 1,
+  "gym": {
+    "name": "",
+    "address": "",
+    "state": "",
+    "city": "",
+    "zipCode": ""
+  },
+  "workOut": true,
+  "showInfo": true
+}
